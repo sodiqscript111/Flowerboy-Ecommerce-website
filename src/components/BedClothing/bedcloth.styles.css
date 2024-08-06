@@ -1,0 +1,18 @@
+.content4 {
+  height: 700px;
+  background-image: url("../../assets/asset 4.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right;
+  text-align: center;
+  margin-top: -47px;
+}
+.bedheading {
+  top: 70px;
+  padding-top: 20%;
+  font-family: "Karla", sans-serif;
+  line-height: 1.7;
+  text-decoration-line: underline;
+  color: #fffaed;
+  font-size: 4rem;
+}

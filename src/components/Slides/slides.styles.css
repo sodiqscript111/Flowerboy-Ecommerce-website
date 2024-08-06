@@ -1,0 +1,32 @@
+.embla {
+  overflow: hidden;
+  top: -30%;
+}
+
+.embla__container {
+  display: flex;
+}
+
+.embla__slide {
+  flex: 0 0 55%; /* Each slide takes up 25% of the container width */
+}
+
+.embla__slide img {
+  /* Ensure images fill their slide container */
+  height: auto; /* Maintain aspect ratio */
+  display: block; /* Remove any extra space below images */
+}
+@media (max-width: 768px) {
+  .embla__container {
+  }
+
+  .embla__slide {
+    flex: 0 0 100%; /* Each slide takes up 100% of the container width */
+  }
+
+  .embla__slide img {
+    width: 100%;
+    height: 100vh; /* Full viewport height */
+    object-fit: cover; /* Maintain aspect ratio and cover the container */
+  }
+}

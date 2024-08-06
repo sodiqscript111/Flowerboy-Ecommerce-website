@@ -1,0 +1,20 @@
+[
+  {
+    "id": 19,
+    "name": "Cool Hat",
+    "imageUrl": "https://i.ibb.co/zf1r0zf/asset-25.jpg",
+    "price": 20
+  },
+  {
+    "id": 20,
+    "name": "Fancy Brim",
+    "imageUrl": "https://i.ibb.co/p2TfYVH/asset-26.jpg",
+    "price": 25
+  },
+  {
+    "id": 21,
+    "name": "Stylish Cap",
+    "imageUrl": "https://i.ibb.co/y6fzv2G/asset-27.jpg",
+    "price": 20
+  }
+]

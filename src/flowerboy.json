@@ -1,0 +1,57 @@
+[
+  {
+    "id": 22,
+    "name": "Trendy Beanie",
+    "imageUrl": "https://i.ibb.co/88rdbk9/asset-28.jpg",
+    "price": 18
+  },
+  {
+    "id": 23,
+    "name": "Elegant Brim",
+    "imageUrl": "https://i.ibb.co/DWDz0df/asset-29.jpg",
+    "price": 24
+  },
+  {
+    "id": 24,
+    "name": "Casual Snapback",
+    "imageUrl": "https://i.ibb.co/0D35nJ7/asset-30.jpg",
+    "price": 22
+  },
+  {
+    "id": 25,
+    "name": "Vintage Cap",
+    "imageUrl": "https://i.ibb.co/6WsY4WT/asset-31.jpg",
+    "price": 19
+  },
+  {
+    "id": 26,
+    "name": "Modern Hat",
+    "imageUrl": "https://i.ibb.co/z80Kn3g/asset-32.jpg",
+    "price": 21
+  },
+  {
+    "id": 27,
+    "name": "Trendy Beanie",
+    "imageUrl": "https://i.ibb.co/tphSdXz/asset-33.jpg",
+    "price": 16
+  },
+  {
+    "id": 28,
+    "name": "Chic Cap",
+    "imageUrl": "https://i.ibb.co/t3Xgd0k/asset-34.jpg",
+    "price": 23
+  },
+  {
+    "id": 29,
+    "name": "Cool Hat",
+    "imageUrl": "https://i.ibb.co/MSY62zq/asset-35.jpg",
+    "price": 20
+  },
+  {
+    "id": 30,
+    "name": "Fancy Brim",
+    "imageUrl": "https://i.ibb.co/qrcjjxy/asset-36.jpg",
+    "price": 25
+  }
+  
+]

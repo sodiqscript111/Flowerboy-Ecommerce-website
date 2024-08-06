@@ -1,0 +1,56 @@
+/* src/components/BackgroundVideo/background.styles.css */
+body {
+  margin: 0;
+  padding: 0;
+}
+.ivycontainer {
+  width: 50%;
+  height: 70%; /* Full viewport height */
+
+  object-fit: cover;
+}
+
+.ivypic {
+  position: relative;
+  top: 40%;
+  left: 50%;
+  width: 100%;
+  height: 80.91111%;
+  object-fit: cover;
+
+  transform: translate(-50%, -50%);
+}
+
+.content1 {
+  position: relative;
+  width: fit-content;
+  gap: 50%;
+  top: -80%;
+  left: 35%;
+  font-family: "Karla", sans-serif;
+  line-height: 1.7;
+  text-decoration-line: underline;
+  color: #fffaed;
+  font-size: 1.4rem;
+  z-index: 8;
+}
+
+.shop-now-button1 {
+  background-color: #96daea;
+  color: black;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 20px;
+  line-height: 1.5;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+.shop-now-button1:hover {
+  background-color: rgba(245, 242, 242, 0.555);
+}
+@media (max-width: 768px) {
+  .content1 {
+    left: 10px;
+  }
+}

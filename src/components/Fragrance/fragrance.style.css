@@ -1,0 +1,19 @@
+.content5 {
+  height: 700px;
+  background-image: url("../../assets/asset 5.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right;
+  text-align: center;
+  cursor: pointer;
+  margin-top: -47px;
+}
+.fragranceheading {
+  top: 70px;
+  padding-top: 20%;
+  font-family: "Karla", sans-serif;
+  line-height: 1.7;
+  text-decoration-line: underline;
+  color: #000;
+  font-size: 4rem;
+}
